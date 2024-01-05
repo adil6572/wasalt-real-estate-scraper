@@ -12,7 +12,8 @@
 - [Output Format](#output-format)
 - [Contributing](#contributing)
 - [License](#license)
-
+  
+![Wasalt Scraper](https://raw.githubusercontent.com/adil6572/wasalt-real-estate-scraper/master/thumbnail.png)
 ## Introduction
 
 Welcome to the **Wasalt Real Estate Data Scraper** project. This repository contains a powerful scraper designed to extract real estate data from the [Wasalt](https://wasalt.com/en) platform in Saudi Arabia. As a prominent real estate platform, Wasalt offers a diverse range of properties, and this scraper streamlines the process of collecting detailed property information, creating a valuable dataset for various applications.
